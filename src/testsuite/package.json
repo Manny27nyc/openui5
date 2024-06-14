@@ -51,6 +51,6 @@
     "@openui5/themelib_sap_horizon": "1.105.0-SNAPSHOT"
   },
   "devDependencies": {
-    "local-web-server": "^3.0.7"
+    "local-web-server": "^5.3.3"
   }
 }
